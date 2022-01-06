@@ -1,0 +1,27 @@
+C:\Users\Redaj\AppData\Local\Temporary Projects\BasicWebpageGenerator\bin\Debug\BasicWebpageGenerator.exe.config
+C:\Users\Redaj\AppData\Local\Temporary Projects\BasicWebpageGenerator\bin\Debug\BasicWebpageGenerator.exe
+C:\Users\Redaj\AppData\Local\Temporary Projects\BasicWebpageGenerator\bin\Debug\BasicWebpageGenerator.pdb
+C:\Users\Redaj\AppData\Local\Temporary Projects\BasicWebpageGenerator\bin\Debug\BasicWebpageGenerator.xml
+C:\Users\Redaj\AppData\Local\Temporary Projects\BasicWebpageGenerator\obj\Debug\BasicWebpageGenerator.vbprojResolveAssemblyReference.cache
+C:\Users\Redaj\AppData\Local\Temporary Projects\BasicWebpageGenerator\obj\Debug\BasicWebpageGenerator.Form1.resources
+C:\Users\Redaj\AppData\Local\Temporary Projects\BasicWebpageGenerator\obj\Debug\BasicWebpageGenerator.Resources.resources
+C:\Users\Redaj\AppData\Local\Temporary Projects\BasicWebpageGenerator\obj\Debug\BasicWebpageGenerator.vbproj.GenerateResource.Cache
+C:\Users\Redaj\AppData\Local\Temporary Projects\BasicWebpageGenerator\obj\Debug\BasicWebpageGenerator.exe
+C:\Users\Redaj\AppData\Local\Temporary Projects\BasicWebpageGenerator\obj\Debug\BasicWebpageGenerator.xml
+C:\Users\Redaj\AppData\Local\Temporary Projects\BasicWebpageGenerator\obj\Debug\BasicWebpageGenerator.pdb
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\BasicWebpageGenerator\BasicWebpageGenerator\bin\Debug\BasicWebpageGenerator.exe.config
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\BasicWebpageGenerator\BasicWebpageGenerator\bin\Debug\BasicWebpageGenerator.exe
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\BasicWebpageGenerator\BasicWebpageGenerator\bin\Debug\BasicWebpageGenerator.pdb
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\BasicWebpageGenerator\BasicWebpageGenerator\bin\Debug\BasicWebpageGenerator.xml
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\BasicWebpageGenerator\BasicWebpageGenerator\obj\Debug\BasicWebpageGenerator.vbprojResolveAssemblyReference.cache
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\BasicWebpageGenerator\BasicWebpageGenerator\obj\Debug\BasicWebpageGenerator.Form1.resources
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\BasicWebpageGenerator\BasicWebpageGenerator\obj\Debug\BasicWebpageGenerator.Resources.resources
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\BasicWebpageGenerator\BasicWebpageGenerator\obj\Debug\BasicWebpageGenerator.vbproj.GenerateResource.Cache
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\BasicWebpageGenerator\BasicWebpageGenerator\obj\Debug\BasicWebpageGenerator.exe
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\BasicWebpageGenerator\BasicWebpageGenerator\obj\Debug\BasicWebpageGenerator.xml
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\BasicWebpageGenerator\BasicWebpageGenerator\obj\Debug\BasicWebpageGenerator.pdb
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\BasicWebpageGenerator\BasicWebpageGenerator\bin\Debug\BasicWebpageGenerator.exe.manifest
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\BasicWebpageGenerator\BasicWebpageGenerator\bin\Debug\BasicWebpageGenerator.application
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\BasicWebpageGenerator\BasicWebpageGenerator\obj\Debug\BasicWebpageGenerator.TrustInfo.xml
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\BasicWebpageGenerator\BasicWebpageGenerator\obj\Debug\BasicWebpageGenerator.exe.manifest
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\BasicWebpageGenerator\BasicWebpageGenerator\obj\Debug\BasicWebpageGenerator.application
